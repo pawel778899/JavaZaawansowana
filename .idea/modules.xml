@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnumZad1/EnumZad1.iml" filepath="$PROJECT_DIR$/EnumZad1/EnumZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumZad2/EnumZad2.iml" filepath="$PROJECT_DIR$/EnumZad2/EnumZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumZad3/EnumZad3.iml" filepath="$PROJECT_DIR$/EnumZad3/EnumZad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOZad1/JavaIOZad1.iml" filepath="$PROJECT_DIR$/JavaIOZad1/JavaIOZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOZad2/JavaIOZad2.iml" filepath="$PROJECT_DIR$/JavaIOZad2/JavaIOZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOZad3/JavaIOZad3.iml" filepath="$PROJECT_DIR$/JavaIOZad3/JavaIOZad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOZad4/JavaIOZad4.iml" filepath="$PROJECT_DIR$/JavaIOZad4/JavaIOZad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyInterfejsyZad2/KlasyInterfejsyZad2.iml" filepath="$PROJECT_DIR$/KlasyInterfejsyZad2/KlasyInterfejsyZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KolekcjeZad1/KolekcjeZad1.iml" filepath="$PROJECT_DIR$/KolekcjeZad1/KolekcjeZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KolekcjeZad2/KolekcjeZad2.iml" filepath="$PROJECT_DIR$/KolekcjeZad2/KolekcjeZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Moje.iml" filepath="$PROJECT_DIR$/.idea/Moje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPP.iml" filepath="$PROJECT_DIR$/OPP/OPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad1/OPPZad1.iml" filepath="$PROJECT_DIR$/OPP/OPPZad1/OPPZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad2/OPPZad2.iml" filepath="$PROJECT_DIR$/OPP/OPPZad2/OPPZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad3/OPPZad3.iml" filepath="$PROJECT_DIR$/OPP/OPPZad3/OPPZad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad4/OPPZad4.iml" filepath="$PROJECT_DIR$/OPP/OPPZad4/OPPZad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad5/OPPZad5.iml" filepath="$PROJECT_DIR$/OPP/OPPZad5/OPPZad5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad6/OPPZad6.iml" filepath="$PROJECT_DIR$/OPP/OPPZad6/OPPZad6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPP/OPPZad7/OPPZad7.iml" filepath="$PROJECT_DIR$/OPP/OPPZad7/OPPZad7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramowanieFunkcyjneZad1/ProgramowanieFunkcyjneZad1.iml" filepath="$PROJECT_DIR$/ProgramowanieFunkcyjneZad1/ProgramowanieFunkcyjneZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefleksjaZad1/RefleksjaZad1.iml" filepath="$PROJECT_DIR$/RefleksjaZad1/RefleksjaZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefleksjaZad2/RefleksjaZad2.iml" filepath="$PROJECT_DIR$/RefleksjaZad2/RefleksjaZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singletone/Singletone.iml" filepath="$PROJECT_DIR$/Singletone/Singletone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczne/TypyGeneryczne.iml" filepath="$PROJECT_DIR$/TypyGeneryczne/TypyGeneryczne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczneZad1/TypyGeneryczneZad1.iml" filepath="$PROJECT_DIR$/TypyGeneryczneZad1/TypyGeneryczneZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczneZad2/TypyGeneryczneZad2.iml" filepath="$PROJECT_DIR$/TypyGeneryczneZad2/TypyGeneryczneZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczneZad3/TypyGeneryczneZad3.iml" filepath="$PROJECT_DIR$/TypyGeneryczneZad3/TypyGeneryczneZad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczneZad4/TypyGeneryczneZad4.iml" filepath="$PROJECT_DIR$/TypyGeneryczneZad4/TypyGeneryczneZad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypyGeneryczneZad5/TypyGeneryczneZad5.iml" filepath="$PROJECT_DIR$/TypyGeneryczneZad5/TypyGeneryczneZad5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WyjatkiZad1/WyjatkiZad1.iml" filepath="$PROJECT_DIR$/WyjatkiZad1/WyjatkiZad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WyjątkiZad2/WyjątkiZad2.iml" filepath="$PROJECT_DIR$/WyjątkiZad2/WyjątkiZad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaZaawansowanaZadania/Zad1/Zad1.iml" filepath="$PROJECT_DIR$/JavaZaawansowanaZadania/Zad1/Zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaZaawansowanaZadania/Zad3/Zad3.iml" filepath="$PROJECT_DIR$/JavaZaawansowanaZadania/Zad3/Zad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaZaawansowanaZadania/Zad4/Zad4.iml" filepath="$PROJECT_DIR$/JavaZaawansowanaZadania/Zad4/Zad4.iml" />
+    </modules>
+  </component>
+</project>
